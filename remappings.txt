@@ -1,0 +1,10 @@
+@openzeppelin/contracts/=lib/metamorpho/lib/openzeppelin-contracts/contracts/
+ds-test/=lib/solmate/lib/ds-test/src/
+erc4626-tests/=lib/metamorpho/lib/erc4626-tests/
+forge-std/=lib/forge-std/src/
+metamorpho/=lib/metamorpho/
+morpho-blue-irm/=lib/metamorpho/lib/morpho-blue-irm/src/
+morpho-blue/=lib/morpho-blue/
+openzeppelin-contracts/=lib/openzeppelin-contracts/
+openzeppelin/=lib/openzeppelin-contracts/contracts/
+solmate/=lib/solmate/src/
